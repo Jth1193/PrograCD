@@ -2,9 +2,9 @@
 layout: default
 ---
 
+<h1>Ejercicios con Algoritmos</h1>
 
-
-<h1>Ejercicios con Algoritmos de Ordenamiento</h1>
+<h1>Algoritmos de Ordenamiento</h1>
 
 
 <div align="center">
@@ -13,9 +13,7 @@ layout: default
 
 
 <ul>
-
   <li><a href="https://github.com/Byrontosh/PrograCD/tree/burbuja" target="_blank">Burbuja</a></li>
-  
 </ul>
 
 
@@ -23,7 +21,7 @@ layout: default
 <hr>
 
 
-<h1>Ejercicios con Algoritmos de Busqueda</h1>
+<h2>Algoritmos de Búsqueda</h2>
 
 <div align="center">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT80aoB0F1j-BIij97MMvrSJp8hiiM5BiR1LQ&usqp=CAU">
