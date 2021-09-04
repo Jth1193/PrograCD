@@ -35,3 +35,5 @@ layout: default
   <li><a href="https://github.com/BYRONTOSH/Ordenamiento/tree/burbuja" target="_blank">Burbuja</a></li>
   
 </ol>
+
+theme: jekyll-theme-cayman
