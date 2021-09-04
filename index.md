@@ -8,13 +8,13 @@ layout: default
 
 
 <div align="center">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT80aoB0F1j-BIij97MMvrSJp8hiiM5BiR1LQ&usqp=CAU">
+<img src="https://ugc.kn3.net/i/760x/http://poiritem.files.wordpress.com/2009/12/agentes-basados-en-busqueda.png">
 </div>
 
 
 <ul>
 
-  <li><a href="https://github.com/BYRONTOSH/Ordenamiento/tree/burbuja" target="_blank">Burbuja</a></li>
+  <li><a href="https://github.com/Byrontosh/PrograCD/tree/burbuja" target="_blank">Burbuja</a></li>
   
 </ul>
 
@@ -32,6 +32,6 @@ layout: default
 
 <ol>
 
-  <li><a href="https://github.com/BYRONTOSH/Ordenamiento/tree/burbuja" target="_blank">Burbuja</a></li>
+  <li><a href="https://github.com/Byrontosh/PrograCD/tree/lineal">Burbuja</a></li>
   
 </ol>
